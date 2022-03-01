@@ -1,5 +1,5 @@
 package Array;
-public class SecontHighest{
+public class SecondHighest {
     public static int getSecondLargest(int[] a, int total){
         int temp;
         for (int i = 0; i < total; i++)
